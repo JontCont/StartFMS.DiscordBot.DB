@@ -1,0 +1,1834 @@
+[
+  {
+    "id": 1,
+    "topic": "我",
+    "japanese": "私",
+    "reading": "わたし",
+    "randomNumber": "0.1468686437",
+    "ranking": "196"
+  },
+  {
+    "id": 2,
+    "topic": "他/她",
+    "japanese": "彼/彼女",
+    "reading": "かれ/かのじょ",
+    "randomNumber": "0.2558979259",
+    "ranking": "172"
+  },
+  {
+    "id": 3,
+    "topic": "家人",
+    "japanese": "家族",
+    "reading": "かぞく",
+    "randomNumber": "0.6762200952",
+    "ranking": "62"
+  },
+  {
+    "id": 4,
+    "topic": "父母",
+    "japanese": "両親",
+    "reading": "りょうしん",
+    "randomNumber": "0.978332932",
+    "ranking": "1"
+  },
+  {
+    "id": 5,
+    "topic": "爺爺/外公",
+    "japanese": "祖父",
+    "reading": "そふ",
+    "randomNumber": "0.4121498749",
+    "ranking": "134"
+  },
+  {
+    "id": 6,
+    "topic": "奶奶/外婆",
+    "japanese": "祖母",
+    "reading": "そぼ",
+    "randomNumber": "0.4472152488",
+    "ranking": "124"
+  },
+  {
+    "id": 7,
+    "topic": "爸爸",
+    "japanese": "父",
+    "reading": "ちち",
+    "randomNumber": "0.1363183987",
+    "ranking": "200"
+  },
+  {
+    "id": 8,
+    "topic": "媽媽",
+    "japanese": "母",
+    "reading": "はは",
+    "randomNumber": "0.3288865137",
+    "ranking": "156"
+  },
+  {
+    "id": 9,
+    "topic": "兄弟姊妹",
+    "japanese": "兄弟",
+    "reading": "きょうだい",
+    "randomNumber": "0.9234281072",
+    "ranking": "18"
+  },
+  {
+    "id": 10,
+    "topic": "哥哥",
+    "japanese": "兄",
+    "reading": "あに",
+    "randomNumber": "0.6731131826",
+    "ranking": "63"
+  },
+  {
+    "id": 11,
+    "topic": "姊姊",
+    "japanese": "姉",
+    "reading": "あね",
+    "randomNumber": "0.6595938647",
+    "ranking": "66"
+  },
+  {
+    "id": 12,
+    "topic": "弟弟",
+    "japanese": "弟",
+    "reading": "おとうと",
+    "randomNumber": "0.9778284168",
+    "ranking": "2"
+  },
+  {
+    "id": 13,
+    "topic": "妹妹",
+    "japanese": "妹",
+    "reading": "いもうと",
+    "randomNumber": "0.3587615733",
+    "ranking": "148"
+  },
+  {
+    "id": 14,
+    "topic": "老師",
+    "japanese": "先生",
+    "reading": "せんせい",
+    "randomNumber": "0.2711119083",
+    "ranking": "168"
+  },
+  {
+    "id": 15,
+    "topic": "學生",
+    "japanese": "学生",
+    "reading": "がくせい",
+    "randomNumber": "0.3870836012",
+    "ranking": "141"
+  },
+  {
+    "id": 16,
+    "topic": "朋友（可指複數）",
+    "japanese": "友達",
+    "reading": "ともだち",
+    "randomNumber": "0.6161402179",
+    "ranking": "80"
+  },
+  {
+    "id": 17,
+    "topic": "好朋友",
+    "japanese": "親友",
+    "reading": "しんゆう",
+    "randomNumber": "0.3720784238",
+    "ranking": "145"
+  },
+  {
+    "id": 18,
+    "topic": "警察",
+    "japanese": "警察",
+    "reading": "けいさつ",
+    "randomNumber": "0.7858621348",
+    "ranking": "40"
+  },
+  {
+    "id": 19,
+    "topic": "公司職員",
+    "japanese": "会社員",
+    "reading": "かいしゃいん",
+    "randomNumber": "0.3983430408",
+    "ranking": "136"
+  },
+  {
+    "id": 20,
+    "topic": "店",
+    "japanese": "店",
+    "reading": "みせ",
+    "randomNumber": "0.3185289427",
+    "ranking": "157"
+  },
+  {
+    "id": 21,
+    "topic": "車站",
+    "japanese": "駅",
+    "reading": "えき",
+    "randomNumber": "0.6497403012",
+    "ranking": "71"
+  },
+  {
+    "id": 22,
+    "topic": "道路",
+    "japanese": "道",
+    "reading": "みち",
+    "randomNumber": "0.6484430127",
+    "ranking": "72"
+  },
+  {
+    "id": 23,
+    "topic": "家",
+    "japanese": "家",
+    "reading": "いえ",
+    "randomNumber": "0.4776752051",
+    "ranking": "116"
+  },
+  {
+    "id": 24,
+    "topic": "房間",
+    "japanese": "部屋",
+    "reading": "へや",
+    "randomNumber": "0.4820159465",
+    "ranking": "115"
+  },
+  {
+    "id": 25,
+    "topic": "建築物",
+    "japanese": "建物",
+    "reading": "たてもの",
+    "randomNumber": "0.6877450906",
+    "ranking": "57"
+  },
+  {
+    "id": 26,
+    "topic": "餐廳",
+    "japanese": "レストラン",
+    "reading": "れすとらん",
+    "randomNumber": "0.3592046531",
+    "ranking": "147"
+  },
+  {
+    "id": 27,
+    "topic": "公司",
+    "japanese": "会社",
+    "reading": "かいしゃ",
+    "randomNumber": "0.8272718877",
+    "ranking": "32"
+  },
+  {
+    "id": 28,
+    "topic": "銀行",
+    "japanese": "銀行",
+    "reading": "ぎんこう",
+    "randomNumber": "0.2845045229",
+    "ranking": "165"
+  },
+  {
+    "id": 29,
+    "topic": "公園",
+    "japanese": "公園",
+    "reading": "こうえん",
+    "randomNumber": "0.311694199",
+    "ranking": "159"
+  },
+  {
+    "id": 30,
+    "topic": "醫院",
+    "japanese": "病院",
+    "reading": "びょういん",
+    "randomNumber": "0.1379314086",
+    "ranking": "199"
+  },
+  {
+    "id": 31,
+    "topic": "學校",
+    "japanese": "学校",
+    "reading": "がっこう",
+    "randomNumber": "0.1893331352",
+    "ranking": "187"
+  },
+  {
+    "id": 32,
+    "topic": "教室",
+    "japanese": "教室",
+    "reading": "きょうしつ",
+    "randomNumber": "0.07094925431",
+    "ranking": "210"
+  },
+  {
+    "id": 33,
+    "topic": "地鐵",
+    "japanese": "地下鉄",
+    "reading": "ちかてつ",
+    "randomNumber": "0.2555946901",
+    "ranking": "173"
+  },
+  {
+    "id": 34,
+    "topic": "公車站",
+    "japanese": "バス停",
+    "reading": "ばすてい",
+    "randomNumber": "0.3693586842",
+    "ranking": "146"
+  },
+  {
+    "id": 35,
+    "topic": "咖啡廳、茶館",
+    "japanese": "喫茶店",
+    "reading": "きっさてん",
+    "randomNumber": "0.5863023138",
+    "ranking": "88"
+  },
+  {
+    "id": 36,
+    "topic": "郵局",
+    "japanese": "郵便局",
+    "reading": "ゆうびんきょく",
+    "randomNumber": "0.01713319717",
+    "ranking": "224"
+  },
+  {
+    "id": 37,
+    "topic": "圖書館",
+    "japanese": "図書館",
+    "reading": "としょかん",
+    "randomNumber": "0.565762581",
+    "ranking": "93"
+  },
+  {
+    "id": 38,
+    "topic": "電影院",
+    "japanese": "映画館",
+    "reading": "えいがかん",
+    "randomNumber": "0.9425850879",
+    "ranking": "13"
+  },
+  {
+    "id": 39,
+    "topic": "十字路口",
+    "japanese": "交差点",
+    "reading": "こうさてん",
+    "randomNumber": "0.2916738167",
+    "ranking": "163"
+  },
+  {
+    "id": 40,
+    "topic": "入口",
+    "japanese": "入り口",
+    "reading": "いりぐち",
+    "randomNumber": "0.2696920529",
+    "ranking": "169"
+  },
+  {
+    "id": 41,
+    "topic": "出口",
+    "japanese": "出口",
+    "reading": "でぐち",
+    "randomNumber": "0.2025380176",
+    "ranking": "182"
+  },
+  {
+    "id": 42,
+    "topic": "公寓",
+    "japanese": "アパート",
+    "reading": "あぱーと",
+    "randomNumber": "0.7596788819",
+    "ranking": "42"
+  },
+  {
+    "id": 43,
+    "topic": "百貨公司",
+    "japanese": "デパート",
+    "reading": "でばーと",
+    "randomNumber": "0.7034010182",
+    "ranking": "51"
+  },
+  {
+    "id": 44,
+    "topic": "電梯(elevator)",
+    "japanese": "エレベーター",
+    "reading": "えれべーたー",
+    "randomNumber": "0.5159068015",
+    "ranking": "105"
+  },
+  {
+    "id": 45,
+    "topic": "旅館、飯店",
+    "japanese": "ホテル",
+    "reading": "ほてる",
+    "randomNumber": "0.9752190248",
+    "ranking": "3"
+  },
+  {
+    "id": 46,
+    "topic": "廁所",
+    "japanese": "トイレ",
+    "reading": "といれ",
+    "randomNumber": "0.2717852569",
+    "ranking": "167"
+  },
+  {
+    "id": 47,
+    "topic": "場所",
+    "japanese": "場所",
+    "reading": "ばしょ",
+    "randomNumber": "0.5077524627",
+    "ranking": "109"
+  },
+  {
+    "id": 48,
+    "topic": "地點、地方",
+    "japanese": "所",
+    "reading": "ところ",
+    "randomNumber": "0.5979194418",
+    "ranking": "85"
+  },
+  {
+    "id": 49,
+    "topic": "食物",
+    "japanese": "食べ物",
+    "reading": "たべもの",
+    "randomNumber": "0.8645658031",
+    "ranking": "28"
+  },
+  {
+    "id": 50,
+    "topic": "飯",
+    "japanese": "ご飯",
+    "reading": "ごはん",
+    "randomNumber": "0.8902997389",
+    "ranking": "25"
+  },
+  {
+    "id": 51,
+    "topic": "水果",
+    "japanese": "果物",
+    "reading": "くだもの",
+    "randomNumber": "0.8935344359",
+    "ranking": "24"
+  },
+  {
+    "id": 52,
+    "topic": "點心",
+    "japanese": "お菓子",
+    "reading": "おかし",
+    "randomNumber": "0.3534092401",
+    "ranking": "150"
+  },
+  {
+    "id": 53,
+    "topic": "咖哩",
+    "japanese": "カレー",
+    "reading": "かれー",
+    "randomNumber": "0.8624223621",
+    "ranking": "30"
+  },
+  {
+    "id": 54,
+    "topic": "麵包",
+    "japanese": "パン",
+    "reading": "ぱん",
+    "randomNumber": "0.5161797083",
+    "ranking": "104"
+  },
+  {
+    "id": 55,
+    "topic": "料理",
+    "japanese": "料理",
+    "reading": "りょうり",
+    "randomNumber": "0.6049184976",
+    "ranking": "84"
+  },
+  {
+    "id": 56,
+    "topic": "魚",
+    "japanese": "魚",
+    "reading": "さかな",
+    "randomNumber": "0.3383995675",
+    "ranking": "154"
+  },
+  {
+    "id": 57,
+    "topic": "肉",
+    "japanese": "肉",
+    "reading": "にく",
+    "randomNumber": "0.6894481834",
+    "ranking": "56"
+  },
+  {
+    "id": 58,
+    "topic": "牛肉",
+    "japanese": "牛肉",
+    "reading": "ぎゅうにく",
+    "randomNumber": "0.2322245427",
+    "ranking": "175"
+  },
+  {
+    "id": 59,
+    "topic": "豬肉",
+    "japanese": "豚肉",
+    "reading": "ぶたにく",
+    "randomNumber": "0.3056827893",
+    "ranking": "161"
+  },
+  {
+    "id": 60,
+    "topic": "鶏肉",
+    "japanese": "鶏肉",
+    "reading": "とりにく",
+    "randomNumber": "0.4677483391",
+    "ranking": "120"
+  },
+  {
+    "id": 61,
+    "topic": "蔬菜",
+    "japanese": "野菜",
+    "reading": "やさい",
+    "randomNumber": "0.139647455",
+    "ranking": "198"
+  },
+  {
+    "id": 62,
+    "topic": "蛋",
+    "japanese": "玉子、卵、たまご",
+    "reading": "たまご",
+    "randomNumber": "0.4111626897",
+    "ranking": "135"
+  },
+  {
+    "id": 63,
+    "topic": "醬油",
+    "japanese": "醤油",
+    "reading": "しょうゆ",
+    "randomNumber": "0.06849609275",
+    "ranking": "211"
+  },
+  {
+    "id": 64,
+    "topic": "飲料",
+    "japanese": "飲み物",
+    "reading": "のみもの",
+    "randomNumber": "0.8950077991",
+    "ranking": "23"
+  },
+  {
+    "id": 65,
+    "topic": "水",
+    "japanese": "水",
+    "reading": "みず",
+    "randomNumber": "0.3443292016",
+    "ranking": "152"
+  },
+  {
+    "id": 66,
+    "topic": "茶",
+    "japanese": "お茶",
+    "reading": "おちゃ",
+    "randomNumber": "0.1066413068",
+    "ranking": "204"
+  },
+  {
+    "id": 67,
+    "topic": "紅茶",
+    "japanese": "紅茶",
+    "reading": "こうちゃ",
+    "randomNumber": "0.7999445232",
+    "ranking": "35"
+  },
+  {
+    "id": 68,
+    "topic": "牛奶",
+    "japanese": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "randomNumber": "0.6457224557",
+    "ranking": "73"
+  },
+  {
+    "id": 69,
+    "topic": "酒",
+    "japanese": "お酒",
+    "reading": "おさけ",
+    "randomNumber": "0.9483263249",
+    "ranking": "11"
+  },
+  {
+    "id": 70,
+    "topic": "啤酒",
+    "japanese": "ビール",
+    "reading": "びーる",
+    "randomNumber": "0.6147223755",
+    "ranking": "82"
+  },
+  {
+    "id": 71,
+    "topic": "咖啡",
+    "japanese": "コーヒー",
+    "reading": "こーひー",
+    "randomNumber": "0.06532018774",
+    "ranking": "212"
+  },
+  {
+    "id": 72,
+    "topic": "果汁",
+    "japanese": "ジュース",
+    "reading": "じゅーす",
+    "randomNumber": "0.6168662331",
+    "ranking": "79"
+  },
+  {
+    "id": 73,
+    "topic": "衣服",
+    "japanese": "服",
+    "reading": "ふく",
+    "randomNumber": "0.04774757155",
+    "ranking": "216"
+  },
+  {
+    "id": 74,
+    "topic": "西服",
+    "japanese": "洋服",
+    "reading": "ようふく",
+    "randomNumber": "0.520247053",
+    "ranking": "103"
+  },
+  {
+    "id": 75,
+    "topic": "大衣、外衣",
+    "japanese": "コート",
+    "reading": "こーと",
+    "randomNumber": "0.08676218362",
+    "ranking": "208"
+  },
+  {
+    "id": 76,
+    "topic": "襯衫(shirt)",
+    "japanese": "シャツ",
+    "reading": "しゃつ",
+    "randomNumber": "0.5600034075",
+    "ranking": "95"
+  },
+  {
+    "id": 77,
+    "topic": "T裇 (T shirt)",
+    "japanese": "Tシャツ",
+    "reading": "Tしゃつ",
+    "randomNumber": "0.7512312285",
+    "ranking": "44"
+  },
+  {
+    "id": 78,
+    "topic": "毛衣(sweater)",
+    "japanese": "セーター",
+    "reading": "せーたー",
+    "randomNumber": "0.3754371869",
+    "ranking": "143"
+  },
+  {
+    "id": 79,
+    "topic": "口袋(pocket)",
+    "japanese": "ポケット",
+    "reading": "ぽけっと",
+    "randomNumber": "0.6541601449",
+    "ranking": "69"
+  },
+  {
+    "id": 80,
+    "topic": "鈕扣",
+    "japanese": "ボタン",
+    "reading": "ぼたん",
+    "randomNumber": "0.5768901072",
+    "ranking": "90"
+  },
+  {
+    "id": 81,
+    "topic": "長褲",
+    "japanese": "ズボン",
+    "reading": "ずぼん",
+    "randomNumber": "0.3956149028",
+    "ranking": "138"
+  },
+  {
+    "id": 82,
+    "topic": "短褲",
+    "japanese": "半ズボン",
+    "reading": "はんズボン",
+    "randomNumber": "0.3973617235",
+    "ranking": "137"
+  },
+  {
+    "id": 83,
+    "topic": "裙子(skirt)",
+    "japanese": "スカート",
+    "reading": "すかーと",
+    "randomNumber": "0.3103012494",
+    "ranking": "160"
+  },
+  {
+    "id": 84,
+    "topic": "鞋子",
+    "japanese": "靴",
+    "reading": "くつ",
+    "randomNumber": "0.4736164993",
+    "ranking": "119"
+  },
+  {
+    "id": 85,
+    "topic": "襪子",
+    "japanese": "靴下",
+    "reading": "くつした",
+    "randomNumber": "0.7721309849",
+    "ranking": "41"
+  },
+  {
+    "id": 86,
+    "topic": "書",
+    "japanese": "本",
+    "reading": "ほん",
+    "randomNumber": "0.2164025067",
+    "ranking": "177"
+  },
+  {
+    "id": 87,
+    "topic": "紙",
+    "japanese": "紙",
+    "reading": "かみ",
+    "randomNumber": "0.450061551",
+    "ranking": "122"
+  },
+  {
+    "id": 88,
+    "topic": "地圖",
+    "japanese": "地図",
+    "reading": "ちず",
+    "randomNumber": "0.04302203845",
+    "ranking": "219"
+  },
+  {
+    "id": 89,
+    "topic": "字典",
+    "japanese": "辞書",
+    "reading": "じしょ",
+    "randomNumber": "0.2006828102",
+    "ranking": "185"
+  },
+  {
+    "id": 90,
+    "topic": "信",
+    "japanese": "手紙",
+    "reading": "てがみ",
+    "randomNumber": "0.7596127921",
+    "ranking": "43"
+  },
+  {
+    "id": 91,
+    "topic": "郵票",
+    "japanese": "切手",
+    "reading": "きって",
+    "randomNumber": "0.9080130285",
+    "ranking": "19"
+  },
+  {
+    "id": 92,
+    "topic": "書架、書櫃",
+    "japanese": "本棚",
+    "reading": "ほんだな",
+    "randomNumber": "0.9749994438",
+    "ranking": "4"
+  },
+  {
+    "id": 93,
+    "topic": "鉛筆",
+    "japanese": "鉛筆",
+    "reading": "えんぴつ",
+    "randomNumber": "0.9274516048",
+    "ranking": "16"
+  },
+  {
+    "id": 94,
+    "topic": "尺",
+    "japanese": "定規",
+    "reading": "じょうぎ",
+    "randomNumber": "0.8108685942",
+    "ranking": "34"
+  },
+  {
+    "id": 95,
+    "topic": "鋼筆",
+    "japanese": "万年筆",
+    "reading": "まんねんひつ",
+    "randomNumber": "0.1996379643",
+    "ranking": "186"
+  },
+  {
+    "id": 96,
+    "topic": "橡皮擦",
+    "japanese": "消しゴム",
+    "reading": "けしゴム",
+    "randomNumber": "0.6304356887",
+    "ranking": "76"
+  },
+  {
+    "id": 97,
+    "topic": "筆",
+    "japanese": "ペン",
+    "reading": "ぺん",
+    "randomNumber": "0.1150299619",
+    "ranking": "202"
+  },
+  {
+    "id": 98,
+    "topic": "筆記本",
+    "japanese": "ノート",
+    "reading": "のーと",
+    "randomNumber": "0.6539718901",
+    "ranking": "70"
+  },
+  {
+    "id": 99,
+    "topic": "原子筆",
+    "japanese": "ボールペン",
+    "reading": "ぼーるぺん",
+    "randomNumber": "0.8284127784",
+    "ranking": "31"
+  },
+  {
+    "id": 100,
+    "topic": "自動鉛筆",
+    "japanese": "シャープペンシル",
+    "reading": "しゃーぷぺんしる",
+    "randomNumber": "0.3569209318",
+    "ranking": "149"
+  },
+  {
+    "id": 101,
+    "topic": "電話",
+    "japanese": "電話",
+    "reading": "でんわ",
+    "randomNumber": "0.6444725772",
+    "ranking": "74"
+  },
+  {
+    "id": 102,
+    "topic": "冰箱",
+    "japanese": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "randomNumber": "0.4753713149",
+    "ranking": "118"
+  },
+  {
+    "id": 103,
+    "topic": "洗衣機",
+    "japanese": "洗濯機",
+    "reading": "せんたくき",
+    "randomNumber": "0.9743433673",
+    "ranking": "5"
+  },
+  {
+    "id": 104,
+    "topic": "電視",
+    "japanese": "テレビ",
+    "reading": "てれび",
+    "randomNumber": "0.37298969",
+    "ranking": "144"
+  },
+  {
+    "id": 105,
+    "topic": "影片",
+    "japanese": "ビデオ",
+    "reading": "びでお",
+    "randomNumber": "0.05510043657",
+    "ranking": "214"
+  },
+  {
+    "id": 106,
+    "topic": "相機",
+    "japanese": "カメラ",
+    "reading": "かめら",
+    "randomNumber": "0.8799248979",
+    "ranking": "26"
+  },
+  {
+    "id": 107,
+    "topic": "電腦",
+    "japanese": "パソコン",
+    "reading": "ぱそこん",
+    "randomNumber": "0.4391046169",
+    "ranking": "125"
+  },
+  {
+    "id": 108,
+    "topic": "冷氣",
+    "japanese": "エアコン",
+    "reading": "えあこん",
+    "randomNumber": "0.5025404008",
+    "ranking": "110"
+  },
+  {
+    "id": 109,
+    "topic": "上面",
+    "japanese": "上",
+    "reading": "うえ",
+    "randomNumber": "0.2105900674",
+    "ranking": "179"
+  },
+  {
+    "id": 110,
+    "topic": "下面",
+    "japanese": "下",
+    "reading": "した",
+    "randomNumber": "0.95613666",
+    "ranking": "9"
+  },
+  {
+    "id": 111,
+    "topic": "左邊",
+    "japanese": "左",
+    "reading": "ひだり",
+    "randomNumber": "0.9387571141",
+    "ranking": "14"
+  },
+  {
+    "id": 112,
+    "topic": "右邊",
+    "japanese": "右",
+    "reading": "みぎ",
+    "randomNumber": "0.2022135294",
+    "ranking": "184"
+  },
+  {
+    "id": 113,
+    "topic": "中間",
+    "japanese": "中",
+    "reading": "なか",
+    "randomNumber": "0.6988245126",
+    "ranking": "53"
+  },
+  {
+    "id": 114,
+    "topic": "前面",
+    "japanese": "前",
+    "reading": "まえ",
+    "randomNumber": "0.8165564063",
+    "ranking": "33"
+  },
+  {
+    "id": 115,
+    "topic": "後面",
+    "japanese": "後ろ",
+    "reading": "うしろ",
+    "randomNumber": "0.7070840314",
+    "ranking": "50"
+  },
+  {
+    "id": 116,
+    "topic": "東方",
+    "japanese": "東",
+    "reading": "ひがし",
+    "randomNumber": "0.3918901539",
+    "ranking": "139"
+  },
+  {
+    "id": 117,
+    "topic": "西方",
+    "japanese": "西",
+    "reading": "にし",
+    "randomNumber": "0.5481782532",
+    "ranking": "98"
+  },
+  {
+    "id": 118,
+    "topic": "南方",
+    "japanese": "南",
+    "reading": "みなみ",
+    "randomNumber": "0.4345407076",
+    "ranking": "128"
+  },
+  {
+    "id": 119,
+    "topic": "北方",
+    "japanese": "北",
+    "reading": "きた",
+    "randomNumber": "0.9009120526",
+    "ranking": "21"
+  },
+  {
+    "id": 120,
+    "topic": "裡面",
+    "japanese": "内",
+    "reading": "うち",
+    "randomNumber": "0.5721063099",
+    "ranking": "92"
+  },
+  {
+    "id": 121,
+    "topic": "外面",
+    "japanese": "外",
+    "reading": "そと",
+    "randomNumber": "0.574353371",
+    "ranking": "91"
+  },
+  {
+    "id": 122,
+    "topic": "附近",
+    "japanese": "辺",
+    "reading": "へん",
+    "randomNumber": "0.9003300818",
+    "ranking": "22"
+  },
+  {
+    "id": 123,
+    "topic": "隔壁",
+    "japanese": "隣",
+    "reading": "となり",
+    "randomNumber": "0.4833496667",
+    "ranking": "114"
+  },
+  {
+    "id": 124,
+    "topic": "隔壁、旁邊",
+    "japanese": "横",
+    "reading": "よこ",
+    "randomNumber": "0.5920611766",
+    "ranking": "86"
+  },
+  {
+    "id": 125,
+    "topic": "1",
+    "japanese": "1",
+    "reading": "いち",
+    "randomNumber": "0.5595800167",
+    "ranking": "96"
+  },
+  {
+    "id": 126,
+    "topic": "2",
+    "japanese": "2",
+    "reading": "に",
+    "randomNumber": "0.9274056683",
+    "ranking": "17"
+  },
+  {
+    "id": 127,
+    "topic": "3",
+    "japanese": "3",
+    "reading": "さん",
+    "randomNumber": "0.1016975879",
+    "ranking": "205"
+  },
+  {
+    "id": 128,
+    "topic": "4",
+    "japanese": "4",
+    "reading": "よん",
+    "randomNumber": "0.2180297191",
+    "ranking": "176"
+  },
+  {
+    "id": 129,
+    "topic": "5",
+    "japanese": "5",
+    "reading": "ご",
+    "randomNumber": "0.5099387223",
+    "ranking": "107"
+  },
+  {
+    "id": 130,
+    "topic": "6",
+    "japanese": "6",
+    "reading": "ろく",
+    "randomNumber": "0.5543460997",
+    "ranking": "97"
+  },
+  {
+    "id": 131,
+    "topic": "7",
+    "japanese": "7",
+    "reading": "しち/なな",
+    "randomNumber": "0.9738552802",
+    "ranking": "6"
+  },
+  {
+    "id": 132,
+    "topic": "8",
+    "japanese": "8",
+    "reading": "はち",
+    "randomNumber": "0.3443735718",
+    "ranking": "151"
+  },
+  {
+    "id": 133,
+    "topic": "9",
+    "japanese": "9",
+    "reading": "きゅう",
+    "randomNumber": "0.4367584498",
+    "ranking": "127"
+  },
+  {
+    "id": 134,
+    "topic": "10",
+    "japanese": "10",
+    "reading": "じゅう",
+    "randomNumber": "0.5079138197",
+    "ranking": "108"
+  },
+  {
+    "id": 135,
+    "topic": "見面",
+    "japanese": "会う",
+    "reading": "あう",
+    "randomNumber": "0.9503685517",
+    "ranking": "10"
+  },
+  {
+    "id": 136,
+    "topic": "玩耍",
+    "japanese": "遊ぶ",
+    "reading": "あそぶ",
+    "randomNumber": "0.2879765183",
+    "ranking": "164"
+  },
+  {
+    "id": 137,
+    "topic": "走路",
+    "japanese": "歩く",
+    "reading": "あるく",
+    "randomNumber": "0.4644887139",
+    "ranking": "121"
+  },
+  {
+    "id": 138,
+    "topic": "說",
+    "japanese": "言う",
+    "reading": "いう",
+    "randomNumber": "0.6198567697",
+    "ranking": "78"
+  },
+  {
+    "id": 139,
+    "topic": "去",
+    "japanese": "行く",
+    "reading": "いく",
+    "randomNumber": "0.728833417",
+    "ranking": "47"
+  },
+  {
+    "id": 140,
+    "topic": "需要",
+    "japanese": "要る",
+    "reading": "いる",
+    "randomNumber": "0.1118134895",
+    "ranking": "203"
+  },
+  {
+    "id": 141,
+    "topic": "唱",
+    "japanese": "歌う",
+    "reading": "うたう",
+    "randomNumber": "0.5801399208",
+    "ranking": "89"
+  },
+  {
+    "id": 142,
+    "topic": "游泳",
+    "japanese": "泳ぐ",
+    "reading": "およぐ",
+    "randomNumber": "0.02292039863",
+    "ranking": "222"
+  },
+  {
+    "id": 143,
+    "topic": "結束",
+    "japanese": "終わる",
+    "reading": "おわる",
+    "randomNumber": "0.663191311",
+    "ranking": "64"
+  },
+  {
+    "id": 144,
+    "topic": "告訴、教導",
+    "japanese": "教える",
+    "reading": "おしえる",
+    "randomNumber": "0.3344958627",
+    "ranking": "155"
+  },
+  {
+    "id": 145,
+    "topic": "買",
+    "japanese": "買う",
+    "reading": "かう",
+    "randomNumber": "0.008331297968",
+    "ranking": "227"
+  },
+  {
+    "id": 146,
+    "topic": "寫",
+    "japanese": "書く",
+    "reading": "かく",
+    "randomNumber": "0.5908218238",
+    "ranking": "87"
+  },
+  {
+    "id": 147,
+    "topic": "花費時間、金錢",
+    "japanese": "掛かる",
+    "reading": "かかる",
+    "randomNumber": "0.7325218225",
+    "ranking": "46"
+  },
+  {
+    "id": 148,
+    "topic": "回家",
+    "japanese": "帰る",
+    "reading": "かえる",
+    "randomNumber": "0.7000170333",
+    "ranking": "52"
+  },
+  {
+    "id": 149,
+    "topic": "請教、聽到",
+    "japanese": "聞く",
+    "reading": "きく",
+    "randomNumber": "0.02118067486",
+    "ranking": "223"
+  },
+  {
+    "id": 150,
+    "topic": "回答",
+    "japanese": "答える",
+    "reading": "こたえる",
+    "randomNumber": "0.2324464603",
+    "ranking": "174"
+  },
+  {
+    "id": 151,
+    "topic": "困擾、為難",
+    "japanese": "困る",
+    "reading": "こまる",
+    "randomNumber": "0.01225840396",
+    "ranking": "226"
+  },
+  {
+    "id": 152,
+    "topic": "來",
+    "japanese": "来る",
+    "reading": "くる",
+    "randomNumber": "0.9055565026",
+    "ranking": "20"
+  },
+  {
+    "id": 153,
+    "topic": "死",
+    "japanese": "死ぬ",
+    "reading": "しぬ",
+    "randomNumber": "0.973716604",
+    "ranking": "7"
+  },
+  {
+    "id": 154,
+    "topic": "居住",
+    "japanese": "住む",
+    "reading": "すむ",
+    "randomNumber": "0.2022844838",
+    "ranking": "183"
+  },
+  {
+    "id": 155,
+    "topic": "坐下",
+    "japanese": "座る",
+    "reading": "すわる",
+    "randomNumber": "0.4253240172",
+    "ranking": "131"
+  },
+  {
+    "id": 156,
+    "topic": "站立",
+    "japanese": "立つ",
+    "reading": "たつ",
+    "randomNumber": "0.3150829812",
+    "ranking": "158"
+  },
+  {
+    "id": 157,
+    "topic": "吃",
+    "japanese": "食べる",
+    "reading": "たべる",
+    "randomNumber": "0.4931875442",
+    "ranking": "112"
+  },
+  {
+    "id": 158,
+    "topic": "疲累",
+    "japanese": "疲れる",
+    "reading": "つかれる",
+    "randomNumber": "0.5471333589",
+    "ranking": "99"
+  },
+  {
+    "id": 159,
+    "topic": "到達",
+    "japanese": "着く",
+    "reading": "つく",
+    "randomNumber": "0.641502787",
+    "ranking": "75"
+  },
+  {
+    "id": 160,
+    "topic": "使用",
+    "japanese": "使う",
+    "reading": "つかう",
+    "randomNumber": "0.722629199",
+    "ranking": "48"
+  },
+  {
+    "id": 161,
+    "topic": "做",
+    "japanese": "作る",
+    "reading": "つくる",
+    "randomNumber": "0.04458901151",
+    "ranking": "218"
+  },
+  {
+    "id": 162,
+    "topic": "停止",
+    "japanese": "止まる",
+    "reading": "とまる",
+    "randomNumber": "0.1733494419",
+    "ranking": "192"
+  },
+  {
+    "id": 163,
+    "topic": "飛、突然跳出",
+    "japanese": "飛ぶ",
+    "reading": "とぶ",
+    "randomNumber": "0.7404351175",
+    "ranking": "45"
+  },
+  {
+    "id": 164,
+    "topic": "哭泣",
+    "japanese": "泣く",
+    "reading": "なく",
+    "randomNumber": "0.1714954069",
+    "ranking": "193"
+  },
+  {
+    "id": 165,
+    "topic": "睡覺",
+    "japanese": "寝る",
+    "reading": "ねる",
+    "randomNumber": "0.54492439",
+    "ranking": "100"
+  },
+  {
+    "id": 166,
+    "topic": "乘坐",
+    "japanese": "乗る",
+    "reading": "のる",
+    "randomNumber": "0.7894399121",
+    "ranking": "38"
+  },
+  {
+    "id": 167,
+    "topic": "喝",
+    "japanese": "飲む",
+    "reading": "のむ",
+    "randomNumber": "0.6569431073",
+    "ranking": "67"
+  },
+  {
+    "id": 168,
+    "topic": "不同、錯誤",
+    "japanese": "違う",
+    "reading": "ちがう",
+    "randomNumber": "0.6842696801",
+    "ranking": "59"
+  },
+  {
+    "id": 169,
+    "topic": "排列、排隊",
+    "japanese": "並ぶ",
+    "reading": "ならぶ",
+    "randomNumber": "0.3051606669",
+    "ranking": "162"
+  },
+  {
+    "id": 170,
+    "topic": "進入",
+    "japanese": "入る",
+    "reading": "はいる",
+    "randomNumber": "0.155544446",
+    "ranking": "195"
+  },
+  {
+    "id": 171,
+    "topic": "開始",
+    "japanese": "始まる",
+    "reading": "はじまる",
+    "randomNumber": "0.4869642622",
+    "ranking": "113"
+  },
+  {
+    "id": 172,
+    "topic": "跑（人）、行駛（車）",
+    "japanese": "走る",
+    "reading": "はしる",
+    "randomNumber": "0.5134372878",
+    "ranking": "106"
+  },
+  {
+    "id": 173,
+    "topic": "降下",
+    "japanese": "降る",
+    "reading": "ふる",
+    "randomNumber": "0.3415355162",
+    "ranking": "153"
+  },
+  {
+    "id": 174,
+    "topic": "看",
+    "japanese": "見る",
+    "reading": "みる",
+    "randomNumber": "0.6543632418",
+    "ranking": "68"
+  },
+  {
+    "id": 175,
+    "topic": "等待",
+    "japanese": "待つ",
+    "reading": "まつ",
+    "randomNumber": "0.4481910921",
+    "ranking": "123"
+  },
+  {
+    "id": 176,
+    "topic": "閱讀",
+    "japanese": "読む",
+    "reading": "よむ",
+    "randomNumber": "0.1834834348",
+    "ranking": "190"
+  },
+  {
+    "id": 177,
+    "topic": "熱的",
+    "japanese": "暑い",
+    "reading": "あつい",
+    "randomNumber": "0.01681759656",
+    "ranking": "225"
+  },
+  {
+    "id": 178,
+    "topic": "冷的",
+    "japanese": "寒い",
+    "reading": "さむい",
+    "randomNumber": "0.1873460804",
+    "ranking": "189"
+  },
+  {
+    "id": 179,
+    "topic": "涼的",
+    "japanese": "冷たい",
+    "reading": "つめたい",
+    "randomNumber": "0.6615849727",
+    "ranking": "65"
+  },
+  {
+    "id": 180,
+    "topic": "溫暖的",
+    "japanese": "暖かい",
+    "reading": "あたたかい",
+    "randomNumber": "0.1627766085",
+    "ranking": "194"
+  },
+  {
+    "id": 181,
+    "topic": "涼爽的",
+    "japanese": "涼しい",
+    "reading": "すずしい",
+    "randomNumber": "0.04731713195",
+    "ranking": "217"
+  },
+  {
+    "id": 182,
+    "topic": "厚的",
+    "japanese": "厚い",
+    "reading": "あつい",
+    "randomNumber": "0.7954651197",
+    "ranking": "36"
+  },
+  {
+    "id": 183,
+    "topic": "薄的、淡的",
+    "japanese": "薄い",
+    "reading": "うすい",
+    "randomNumber": "0.9482526107",
+    "ranking": "12"
+  },
+  {
+    "id": 184,
+    "topic": "近的",
+    "japanese": "近い",
+    "reading": "ちかい",
+    "randomNumber": "0.4771532434",
+    "ranking": "117"
+  },
+  {
+    "id": 185,
+    "topic": "遠的",
+    "japanese": "遠い",
+    "reading": "とおい",
+    "randomNumber": "0.1428893464",
+    "ranking": "197"
+  },
+  {
+    "id": 186,
+    "topic": "弱的",
+    "japanese": "弱い",
+    "reading": "よわい",
+    "randomNumber": "0.2056515725",
+    "ranking": "181"
+  },
+  {
+    "id": 187,
+    "topic": "強的",
+    "japanese": "強い",
+    "reading": "つよい",
+    "randomNumber": "0.5207443973",
+    "ranking": "102"
+  },
+  {
+    "id": 188,
+    "topic": "輕的",
+    "japanese": "軽い",
+    "reading": "かるい",
+    "randomNumber": "0.9570058762",
+    "ranking": "8"
+  },
+  {
+    "id": 189,
+    "topic": "重的",
+    "japanese": "重い",
+    "reading": "おもい",
+    "randomNumber": "0.9348682155",
+    "ranking": "15"
+  },
+  {
+    "id": 190,
+    "topic": "狹窄",
+    "japanese": "狭い",
+    "reading": "せまい",
+    "randomNumber": "0.71198452",
+    "ranking": "49"
+  },
+  {
+    "id": 191,
+    "topic": "寬廣",
+    "japanese": "広い",
+    "reading": "ひろい",
+    "randomNumber": "0.7886531203",
+    "ranking": "39"
+  },
+  {
+    "id": 192,
+    "topic": "早的",
+    "japanese": "早い",
+    "reading": "はやい",
+    "randomNumber": "0.09581127259",
+    "ranking": "207"
+  },
+  {
+    "id": 193,
+    "topic": "快的",
+    "japanese": "速い",
+    "reading": "はやい",
+    "randomNumber": "0.3908138889",
+    "ranking": "140"
+  },
+  {
+    "id": 194,
+    "topic": "慢、晚、",
+    "japanese": "遅い",
+    "reading": "おそい",
+    "randomNumber": "0.4149776286",
+    "ranking": "133"
+  },
+  {
+    "id": 195,
+    "topic": "粗的、胖的",
+    "japanese": "太い",
+    "reading": "ふとい",
+    "randomNumber": "0.4954631031",
+    "ranking": "111"
+  },
+  {
+    "id": 196,
+    "topic": "細的",
+    "japanese": "細い",
+    "reading": "ほそい",
+    "randomNumber": "0.6904167572",
+    "ranking": "55"
+  },
+  {
+    "id": 197,
+    "topic": "短的",
+    "japanese": "短い",
+    "reading": "みじかい",
+    "randomNumber": "0.6151520578",
+    "ranking": "81"
+  },
+  {
+    "id": 198,
+    "topic": "長的",
+    "japanese": "長い",
+    "reading": "ながい",
+    "randomNumber": "0.862817903",
+    "ranking": "29"
+  },
+  {
+    "id": 199,
+    "topic": "便宜",
+    "japanese": "安い",
+    "reading": "やすい",
+    "randomNumber": "0.0569193133",
+    "ranking": "213"
+  },
+  {
+    "id": 200,
+    "topic": "貴的、高的",
+    "japanese": "高い",
+    "reading": "たかい",
+    "randomNumber": "0.5320363133",
+    "ranking": "101"
+  },
+  {
+    "id": 201,
+    "topic": "矮的",
+    "japanese": "低い",
+    "reading": "ひくい",
+    "randomNumber": "0.7912286919",
+    "ranking": "37"
+  },
+  {
+    "id": 202,
+    "topic": "好的",
+    "japanese": "良い",
+    "reading": "いい",
+    "randomNumber": "0.5651674947",
+    "ranking": "94"
+  },
+  {
+    "id": 203,
+    "topic": "壞的",
+    "japanese": "悪い",
+    "reading": "わるい",
+    "randomNumber": "0.2807563134",
+    "ranking": "166"
+  },
+  {
+    "id": 204,
+    "topic": "髒的",
+    "japanese": "汚い",
+    "reading": "きたない",
+    "randomNumber": "0.4217905948",
+    "ranking": "132"
+  },
+  {
+    "id": 205,
+    "topic": "新的",
+    "japanese": "新しい",
+    "reading": "あたらしい",
+    "randomNumber": "0.03299969568",
+    "ranking": "220"
+  },
+  {
+    "id": 206,
+    "topic": "舊的",
+    "japanese": "古い",
+    "reading": "ふるい",
+    "randomNumber": "0.6831484885",
+    "ranking": "60"
+  },
+  {
+    "id": 207,
+    "topic": "有趣的",
+    "japanese": "面白い",
+    "reading": "おもしろい",
+    "randomNumber": "0.6134479516",
+    "ranking": "83"
+  },
+  {
+    "id": 208,
+    "topic": "無聊的",
+    "japanese": "つまらない",
+    "reading": "つまらない",
+    "randomNumber": "0.6957579965",
+    "ranking": "54"
+  },
+  {
+    "id": 209,
+    "topic": "大的",
+    "japanese": "大きい",
+    "reading": "おおきい",
+    "randomNumber": "0.08351923324",
+    "ranking": "209"
+  },
+  {
+    "id": 210,
+    "topic": "小的",
+    "japanese": "小さい",
+    "reading": "ちいさい",
+    "randomNumber": "0.4383875807",
+    "ranking": "126"
+  },
+  {
+    "id": 211,
+    "topic": "甜的",
+    "japanese": "甘い",
+    "reading": "あまい",
+    "randomNumber": "0.6817079789",
+    "ranking": "61"
+  },
+  {
+    "id": 212,
+    "topic": "好吃、好喝",
+    "japanese": "美味しい",
+    "reading": "おいしい",
+    "randomNumber": "0.2618864805",
+    "ranking": "171"
+  },
+  {
+    "id": 213,
+    "topic": "難吃、難喝",
+    "japanese": "まずい",
+    "reading": "x",
+    "randomNumber": "0.1225865213",
+    "ranking": "201"
+  },
+  {
+    "id": 214,
+    "topic": "簡單",
+    "japanese": "易しい",
+    "reading": "やさしい",
+    "randomNumber": "0.429505591",
+    "ranking": "129"
+  },
+  {
+    "id": 215,
+    "topic": "困難的",
+    "japanese": "難しい",
+    "reading": "むずかしい",
+    "randomNumber": "0.174793013",
+    "ranking": "191"
+  },
+  {
+    "id": 216,
+    "topic": "溫柔",
+    "japanese": "優しい",
+    "reading": "やさしい",
+    "randomNumber": "0.8747489752",
+    "ranking": "27"
+  },
+  {
+    "id": 217,
+    "topic": "嚴格的",
+    "japanese": "厳しい",
+    "reading": "きびしい",
+    "randomNumber": "0.4273564017",
+    "ranking": "130"
+  },
+  {
+    "id": 218,
+    "topic": "暗暗的",
+    "japanese": "暗い",
+    "reading": "くらい",
+    "randomNumber": "0.09619495683",
+    "ranking": "206"
+  },
+  {
+    "id": 219,
+    "topic": "明亮的",
+    "japanese": "明るい",
+    "reading": "あかるい",
+    "randomNumber": "0.04822899015",
+    "ranking": "215"
+  },
+  {
+    "id": 220,
+    "topic": "忙碌",
+    "japanese": "忙しい",
+    "reading": "いそがしい",
+    "randomNumber": "0.004007795379",
+    "ranking": "228"
+  },
+  {
+    "id": 221,
+    "topic": "可愛",
+    "japanese": "可愛い",
+    "reading": "かわいい",
+    "randomNumber": "0.2674131661",
+    "ranking": "170"
+  },
+  {
+    "id": 222,
+    "topic": "快樂",
+    "japanese": "楽しい",
+    "reading": "たのしい",
+    "randomNumber": "0.02903546049",
+    "ranking": "221"
+  },
+  {
+    "id": 223,
+    "topic": "吵、囉嗦",
+    "japanese": "うるさい",
+    "reading": "x",
+    "randomNumber": "0.6204026949",
+    "ranking": "77"
+  },
+  {
+    "id": 224,
+    "topic": "漂亮、乾淨",
+    "japanese": "綺麗",
+    "reading": "きれい",
+    "randomNumber": "0.1885862445",
+    "ranking": "188"
+  },
+  {
+    "id": 225,
+    "topic": "方便",
+    "japanese": "便利",
+    "reading": "べんり",
+    "randomNumber": "0.2097539405",
+    "ranking": "180"
+  },
+  {
+    "id": 226,
+    "topic": "有名",
+    "japanese": "有名",
+    "reading": "ゆうめい",
+    "randomNumber": "0.687456887",
+    "ranking": "58"
+  },
+  {
+    "id": 227,
+    "topic": "安靜",
+    "japanese": "静か",
+    "reading": "しずか",
+    "randomNumber": "0.3805306732",
+    "ranking": "142"
+  },
+  {
+    "id": 228,
+    "topic": "熱鬧、繁華",
+    "japanese": "賑やか",
+    "reading": "にぎやか",
+    "randomNumber": "0.2109287063",
+    "ranking": "178"
+  },
+  {
+    "topic": "冰淇淋",
+    "japanese": "アイスクリーム",
+    "reading": "おそい",
+    "randomNumber": "0.4149776286",
+    "ranking": "999",
+    "id": 229
+  }
+]
