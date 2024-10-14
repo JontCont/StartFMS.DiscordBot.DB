@@ -1,11 +1,9 @@
 const express = require('express');
 const app = express();
 
-// 引入路由
-const learnJpIC = require('./src/learn-jp-individual-characters');
-
 // 使用路由
-app.use('/learn/jp', learnJpIC);
+app.use('/learn/jp', require('./src/learn-jp-individual-characters'));
+app.use('/', require('./src/tiket'));
 
 // 定義其他路由或中間件
 app.get('/', (req, res) => {
