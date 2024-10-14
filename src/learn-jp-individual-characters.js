@@ -25,7 +25,7 @@ router.get("/individual-characters", (req, res) => {
 // Get a single item by ID
 router.get("/individual-characters/:id", (req, res) => {
   const data = readDatabase();
-  const item = data.find((item) => item.id === req.params.id);
+  const item = data.find((item) => item.id === parseInt(req.params.id));
   if (item) {
     res.json(item);
   } else {
@@ -37,7 +37,7 @@ router.get("/individual-characters/:id", (req, res) => {
 router.post("/individual-characters", (req, res) => {
   const data = readDatabase();
   const newItem = req.body;
-  if (!newItem.topic || !newItem.日文 || !newItem["平/片假名讀音"]) {
+  if (!newItem.topic || !newItem.japanese || !newItem.reading) {
     return res.status(400).send("Missing required fields");
   }
 

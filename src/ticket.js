@@ -23,9 +23,9 @@ router.get("/ticket", (req, res) => {
 });
 
 // Get a single item by ID
-router.get("/ticket/:id", (req, res) => {
+router.get("/ticket/:key", (req, res) => {
   const data = readDatabase();
-  const item = data.find((item) => item.id === req.params.id);
+  const item = data.find((item) => item.key === req.params.key);
   if (item) {
     res.json(item);
   } else {
@@ -37,11 +37,8 @@ router.get("/ticket/:id", (req, res) => {
 router.post("/ticket", (req, res) => {
   const data = readDatabase();
   const newItem = req.body;
-  if (!newItem.topic || !newItem.日文 || !newItem["平/片假名讀音"]) {
-    return res.status(400).send("Missing required fields");
-  }
 
-  if (data.find((item) => item.topic === newItem.topic)) {
+  if (data.find((item) => item.key === newItem.key)) {
     return res.status(400).send("Item already exists");
   }
 

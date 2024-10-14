@@ -1,1374 +1,1374 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "topic": "我",
     "japanese": "私",
     "reading": "わたし"
   },
   {
-    "id": "2",
+    "id": 2,
     "topic": "他/她",
     "japanese": "彼/彼女",
     "reading": "かれ/かのじょ"
   },
   {
-    "id": "3",
+    "id": 3,
     "topic": "家人",
     "japanese": "家族",
     "reading": "かぞく"
   },
   {
-    "id": "4",
+    "id": 4,
     "topic": "父母",
     "japanese": "両親",
     "reading": "りょうしん"
   },
   {
-    "id": "5",
+    "id": 5,
     "topic": "爺爺/外公",
     "japanese": "祖父",
     "reading": "そふ"
   },
   {
-    "id": "6",
+    "id": 6,
     "topic": "奶奶/外婆",
     "japanese": "祖母",
     "reading": "そぼ"
   },
   {
-    "id": "7",
+    "id": 7,
     "topic": "爸爸",
     "japanese": "父",
     "reading": "ちち"
   },
   {
-    "id": "8",
+    "id": 8,
     "topic": "媽媽",
     "japanese": "母",
     "reading": "はは"
   },
   {
-    "id": "9",
+    "id": 9,
     "topic": "兄弟姊妹",
     "japanese": "兄弟",
     "reading": "きょうだい"
   },
   {
-    "id": "10",
+    "id": 10,
     "topic": "哥哥",
     "japanese": "兄",
     "reading": "あに"
   },
   {
-    "id": "11",
+    "id": 11,
     "topic": "姊姊",
     "japanese": "姉",
     "reading": "あね"
   },
   {
-    "id": "12",
+    "id": 12,
     "topic": "弟弟",
     "japanese": "弟",
     "reading": "おとうと"
   },
   {
-    "id": "13",
+    "id": 13,
     "topic": "妹妹",
     "japanese": "妹",
     "reading": "いもうと"
   },
   {
-    "id": "14",
+    "id": 14,
     "topic": "老師",
     "japanese": "先生",
     "reading": "せんせい"
   },
   {
-    "id": "15",
+    "id": 15,
     "topic": "學生",
     "japanese": "学生",
     "reading": "がくせい"
   },
   {
-    "id": "16",
+    "id": 16,
     "topic": "朋友（可指複數）",
     "japanese": "友達",
     "reading": "ともだち"
   },
   {
-    "id": "17",
+    "id": 17,
     "topic": "好朋友",
     "japanese": "親友",
     "reading": "しんゆう"
   },
   {
-    "id": "18",
+    "id": 18,
     "topic": "警察",
     "japanese": "警察",
     "reading": "けいさつ"
   },
   {
-    "id": "19",
+    "id": 19,
     "topic": "公司職員",
     "japanese": "会社員",
     "reading": "かいしゃいん"
   },
   {
-    "id": "20",
+    "id": 20,
     "topic": "店",
     "japanese": "店",
     "reading": "みせ"
   },
   {
-    "id": "21",
+    "id": 21,
     "topic": "車站",
     "japanese": "駅",
     "reading": "えき"
   },
   {
-    "id": "22",
+    "id": 22,
     "topic": "道路",
     "japanese": "道",
     "reading": "みち"
   },
   {
-    "id": "23",
+    "id": 23,
     "topic": "家",
     "japanese": "家",
     "reading": "いえ"
   },
   {
-    "id": "24",
+    "id": 24,
     "topic": "房間",
     "japanese": "部屋",
     "reading": "へや"
   },
   {
-    "id": "25",
+    "id": 25,
     "topic": "建築物",
     "japanese": "建物",
     "reading": "たてもの"
   },
   {
-    "id": "26",
+    "id": 26,
     "topic": "餐廳",
     "japanese": "レストラン",
     "reading": "れすとらん"
   },
   {
-    "id": "27",
+    "id": 27,
     "topic": "公司",
     "japanese": "会社",
     "reading": "かいしゃ"
   },
   {
-    "id": "28",
+    "id": 28,
     "topic": "銀行",
     "japanese": "銀行",
     "reading": "ぎんこう"
   },
   {
-    "id": "29",
+    "id": 29,
     "topic": "公園",
     "japanese": "公園",
     "reading": "こうえん"
   },
   {
-    "id": "30",
+    "id": 30,
     "topic": "醫院",
     "japanese": "病院",
     "reading": "びょういん"
   },
   {
-    "id": "31",
+    "id": 31,
     "topic": "學校",
     "japanese": "学校",
     "reading": "がっこう"
   },
   {
-    "id": "32",
+    "id": 32,
     "topic": "教室",
     "japanese": "教室",
     "reading": "きょうしつ"
   },
   {
-    "id": "33",
+    "id": 33,
     "topic": "地鐵",
     "japanese": "地下鉄",
     "reading": "ちかてつ"
   },
   {
-    "id": "34",
+    "id": 34,
     "topic": "公車站",
     "japanese": "バス停",
     "reading": "ばすてい"
   },
   {
-    "id": "35",
+    "id": 35,
     "topic": "咖啡廳、茶館",
     "japanese": "喫茶店",
     "reading": "きっさてん"
   },
   {
-    "id": "36",
+    "id": 36,
     "topic": "郵局",
     "japanese": "郵便局",
     "reading": "ゆうびんきょく"
   },
   {
-    "id": "37",
+    "id": 37,
     "topic": "圖書館",
     "japanese": "図書館",
     "reading": "としょかん"
   },
   {
-    "id": "38",
+    "id": 38,
     "topic": "電影院",
     "japanese": "映画館",
     "reading": "えいがかん"
   },
   {
-    "id": "39",
+    "id": 39,
     "topic": "十字路口",
     "japanese": "交差点",
     "reading": "こうさてん"
   },
   {
-    "id": "40",
+    "id": 40,
     "topic": "入口",
     "japanese": "入り口",
     "reading": "いりぐち"
   },
   {
-    "id": "41",
+    "id": 41,
     "topic": "出口",
     "japanese": "出口",
     "reading": "でぐち"
   },
   {
-    "id": "42",
+    "id": 42,
     "topic": "公寓",
     "japanese": "アパート",
     "reading": "あぱーと"
   },
   {
-    "id": "43",
+    "id": 43,
     "topic": "百貨公司",
     "japanese": "デパート",
     "reading": "でばーと"
   },
   {
-    "id": "44",
+    "id": 44,
     "topic": "電梯(elevator)",
     "japanese": "エレベーター",
     "reading": "えれべーたー"
   },
   {
-    "id": "45",
+    "id": 45,
     "topic": "旅館、飯店",
     "japanese": "ホテル",
     "reading": "ほてる"
   },
   {
-    "id": "46",
+    "id": 46,
     "topic": "廁所",
     "japanese": "トイレ",
     "reading": "といれ"
   },
   {
-    "id": "47",
+    "id": 47,
     "topic": "場所",
     "japanese": "場所",
     "reading": "ばしょ"
   },
   {
-    "id": "48",
+    "id": 48,
     "topic": "地點、地方",
     "japanese": "所",
     "reading": "ところ"
   },
   {
-    "id": "49",
+    "id": 49,
     "topic": "食物",
     "japanese": "食べ物",
     "reading": "たべもの"
   },
   {
-    "id": "50",
+    "id": 50,
     "topic": "飯",
     "japanese": "ご飯",
     "reading": "ごはん"
   },
   {
-    "id": "51",
+    "id": 51,
     "topic": "水果",
     "japanese": "果物",
     "reading": "くだもの"
   },
   {
-    "id": "52",
+    "id": 52,
     "topic": "點心",
     "japanese": "お菓子",
     "reading": "おかし"
   },
   {
-    "id": "53",
+    "id": 53,
     "topic": "咖哩",
     "japanese": "カレー",
     "reading": "かれー"
   },
   {
-    "id": "54",
+    "id": 54,
     "topic": "麵包",
     "japanese": "パン",
     "reading": "ぱん"
   },
   {
-    "id": "55",
+    "id": 55,
     "topic": "料理",
     "japanese": "料理",
     "reading": "りょうり"
   },
   {
-    "id": "56",
+    "id": 56,
     "topic": "魚",
     "japanese": "魚",
     "reading": "さかな"
   },
   {
-    "id": "57",
+    "id": 57,
     "topic": "肉",
     "japanese": "肉",
     "reading": "にく"
   },
   {
-    "id": "58",
+    "id": 58,
     "topic": "牛肉",
     "japanese": "牛肉",
     "reading": "ぎゅうにく"
   },
   {
-    "id": "59",
+    "id": 59,
     "topic": "豬肉",
     "japanese": "豚肉",
     "reading": "ぶたにく"
   },
   {
-    "id": "60",
+    "id": 60,
     "topic": "鶏肉",
     "japanese": "鶏肉",
     "reading": "とりにく"
   },
   {
-    "id": "61",
+    "id": 61,
     "topic": "蔬菜",
     "japanese": "野菜",
     "reading": "やさい"
   },
   {
-    "id": "62",
+    "id": 62,
     "topic": "蛋",
     "japanese": "玉子、卵、たまご",
     "reading": "たまご"
   },
   {
-    "id": "63",
+    "id": 63,
     "topic": "醬油",
     "japanese": "醤油",
     "reading": "しょうゆ"
   },
   {
-    "id": "64",
+    "id": 64,
     "topic": "飲料",
     "japanese": "飲み物",
     "reading": "のみもの"
   },
   {
-    "id": "65",
+    "id": 65,
     "topic": "水",
     "japanese": "水",
     "reading": "みず"
   },
   {
-    "id": "66",
+    "id": 66,
     "topic": "茶",
     "japanese": "お茶",
     "reading": "おちゃ"
   },
   {
-    "id": "67",
+    "id": 67,
     "topic": "紅茶",
     "japanese": "紅茶",
     "reading": "こうちゃ"
   },
   {
-    "id": "68",
+    "id": 68,
     "topic": "牛奶",
     "japanese": "牛乳",
     "reading": "ぎゅうにゅう"
   },
   {
-    "id": "69",
+    "id": 69,
     "topic": "酒",
     "japanese": "お酒",
     "reading": "おさけ"
   },
   {
-    "id": "70",
+    "id": 70,
     "topic": "啤酒",
     "japanese": "ビール",
     "reading": "びーる"
   },
   {
-    "id": "71",
+    "id": 71,
     "topic": "咖啡",
     "japanese": "コーヒー",
     "reading": "こーひー"
   },
   {
-    "id": "72",
+    "id": 72,
     "topic": "果汁",
     "japanese": "ジュース",
     "reading": "じゅーす"
   },
   {
-    "id": "73",
+    "id": 73,
     "topic": "衣服",
     "japanese": "服",
     "reading": "ふく"
   },
   {
-    "id": "74",
+    "id": 74,
     "topic": "西服",
     "japanese": "洋服",
     "reading": "ようふく"
   },
   {
-    "id": "75",
+    "id": 75,
     "topic": "大衣、外衣",
     "japanese": "コート",
     "reading": "こーと"
   },
   {
-    "id": "76",
+    "id": 76,
     "topic": "襯衫(shirt)",
     "japanese": "シャツ",
     "reading": "しゃつ"
   },
   {
-    "id": "77",
+    "id": 77,
     "topic": "T裇 (T shirt)",
     "japanese": "Tシャツ",
     "reading": "Tしゃつ"
   },
   {
-    "id": "78",
+    "id": 78,
     "topic": "毛衣(sweater)",
     "japanese": "セーター",
     "reading": "せーたー"
   },
   {
-    "id": "79",
+    "id": 79,
     "topic": "口袋(pocket)",
     "japanese": "ポケット",
     "reading": "ぽけっと"
   },
   {
-    "id": "80",
+    "id": 80,
     "topic": "鈕扣",
     "japanese": "ボタン",
     "reading": "ぼたん"
   },
   {
-    "id": "81",
+    "id": 81,
     "topic": "長褲",
     "japanese": "ズボン",
     "reading": "ずぼん"
   },
   {
-    "id": "82",
+    "id": 82,
     "topic": "短褲",
     "japanese": "半ズボン",
     "reading": "はんズボン"
   },
   {
-    "id": "83",
+    "id": 83,
     "topic": "裙子(skirt)",
     "japanese": "スカート",
     "reading": "すかーと"
   },
   {
-    "id": "84",
+    "id": 84,
     "topic": "鞋子",
     "japanese": "靴",
     "reading": "くつ"
   },
   {
-    "id": "85",
+    "id": 85,
     "topic": "襪子",
     "japanese": "靴下",
     "reading": "くつした"
   },
   {
-    "id": "86",
+    "id": 86,
     "topic": "書",
     "japanese": "本",
     "reading": "ほん"
   },
   {
-    "id": "87",
+    "id": 87,
     "topic": "紙",
     "japanese": "紙",
     "reading": "かみ"
   },
   {
-    "id": "88",
+    "id": 88,
     "topic": "地圖",
     "japanese": "地図",
     "reading": "ちず"
   },
   {
-    "id": "89",
+    "id": 89,
     "topic": "字典",
     "japanese": "辞書",
     "reading": "じしょ"
   },
   {
-    "id": "90",
+    "id": 90,
     "topic": "信",
     "japanese": "手紙",
     "reading": "てがみ"
   },
   {
-    "id": "91",
+    "id": 91,
     "topic": "郵票",
     "japanese": "切手",
     "reading": "きって"
   },
   {
-    "id": "92",
+    "id": 92,
     "topic": "書架、書櫃",
     "japanese": "本棚",
     "reading": "ほんだな"
   },
   {
-    "id": "93",
+    "id": 93,
     "topic": "鉛筆",
     "japanese": "鉛筆",
     "reading": "えんぴつ"
   },
   {
-    "id": "94",
+    "id": 94,
     "topic": "尺",
     "japanese": "定規",
     "reading": "じょうぎ"
   },
   {
-    "id": "95",
+    "id": 95,
     "topic": "鋼筆",
     "japanese": "万年筆",
     "reading": "まんねんひつ"
   },
   {
-    "id": "96",
+    "id": 96,
     "topic": "橡皮擦",
     "japanese": "消しゴム",
     "reading": "けしゴム"
   },
   {
-    "id": "97",
+    "id": 97,
     "topic": "筆",
     "japanese": "ペン",
     "reading": "ぺん"
   },
   {
-    "id": "98",
+    "id": 98,
     "topic": "筆記本",
     "japanese": "ノート",
     "reading": "のーと"
   },
   {
-    "id": "99",
+    "id": 99,
     "topic": "原子筆",
     "japanese": "ボールペン",
     "reading": "ぼーるぺん"
   },
   {
-    "id": "100",
+    "id": 100,
     "topic": "自動鉛筆",
     "japanese": "シャープペンシル",
     "reading": "しゃーぷぺんしる"
   },
   {
-    "id": "101",
+    "id": 101,
     "topic": "電話",
     "japanese": "電話",
     "reading": "でんわ"
   },
   {
-    "id": "102",
+    "id": 102,
     "topic": "冰箱",
     "japanese": "冷蔵庫",
     "reading": "れいぞうこ"
   },
   {
-    "id": "103",
+    "id": 103,
     "topic": "洗衣機",
     "japanese": "洗濯機",
     "reading": "せんたくき"
   },
   {
-    "id": "104",
+    "id": 104,
     "topic": "電視",
     "japanese": "テレビ",
     "reading": "てれび"
   },
   {
-    "id": "105",
+    "id": 105,
     "topic": "影片",
     "japanese": "ビデオ",
     "reading": "びでお"
   },
   {
-    "id": "106",
+    "id": 106,
     "topic": "相機",
     "japanese": "カメラ",
     "reading": "かめら"
   },
   {
-    "id": "107",
+    "id": 107,
     "topic": "電腦",
     "japanese": "パソコン",
     "reading": "ぱそこん"
   },
   {
-    "id": "108",
+    "id": 108,
     "topic": "冷氣",
     "japanese": "エアコン",
     "reading": "えあこん"
   },
   {
-    "id": "109",
+    "id": 109,
     "topic": "上面",
     "japanese": "上",
     "reading": "うえ"
   },
   {
-    "id": "110",
+    "id": 110,
     "topic": "下面",
     "japanese": "下",
     "reading": "した"
   },
   {
-    "id": "111",
+    "id": 111,
     "topic": "左邊",
     "japanese": "左",
     "reading": "ひだり"
   },
   {
-    "id": "112",
+    "id": 112,
     "topic": "右邊",
     "japanese": "右",
     "reading": "みぎ"
   },
   {
-    "id": "113",
+    "id": 113,
     "topic": "中間",
     "japanese": "中",
     "reading": "なか"
   },
   {
-    "id": "114",
+    "id": 114,
     "topic": "前面",
     "japanese": "前",
     "reading": "まえ"
   },
   {
-    "id": "115",
+    "id": 115,
     "topic": "後面",
     "japanese": "後ろ",
     "reading": "うしろ"
   },
   {
-    "id": "116",
+    "id": 116,
     "topic": "東方",
     "japanese": "東",
     "reading": "ひがし"
   },
   {
-    "id": "117",
+    "id": 117,
     "topic": "西方",
     "japanese": "西",
     "reading": "にし"
   },
   {
-    "id": "118",
+    "id": 118,
     "topic": "南方",
     "japanese": "南",
     "reading": "みなみ"
   },
   {
-    "id": "119",
+    "id": 119,
     "topic": "北方",
     "japanese": "北",
     "reading": "きた"
   },
   {
-    "id": "120",
+    "id": 120,
     "topic": "裡面",
     "japanese": "内",
     "reading": "うち"
   },
   {
-    "id": "121",
+    "id": 121,
     "topic": "外面",
     "japanese": "外",
     "reading": "そと"
   },
   {
-    "id": "122",
+    "id": 122,
     "topic": "附近",
     "japanese": "辺",
     "reading": "へん"
   },
   {
-    "id": "123",
+    "id": 123,
     "topic": "隔壁",
     "japanese": "隣",
     "reading": "となり"
   },
   {
-    "id": "124",
+    "id": 124,
     "topic": "隔壁、旁邊",
     "japanese": "横",
     "reading": "よこ"
   },
   {
-    "id": "125",
+    "id": 125,
     "topic": "1",
     "japanese": "1",
     "reading": "いち"
   },
   {
-    "id": "126",
+    "id": 126,
     "topic": "2",
     "japanese": "2",
     "reading": "に"
   },
   {
-    "id": "127",
+    "id": 127,
     "topic": "3",
     "japanese": "3",
     "reading": "さん"
   },
   {
-    "id": "128",
+    "id": 128,
     "topic": "4",
     "japanese": "4",
     "reading": "よん"
   },
   {
-    "id": "129",
+    "id": 129,
     "topic": "5",
     "japanese": "5",
     "reading": "ご"
   },
   {
-    "id": "130",
+    "id": 130,
     "topic": "6",
     "japanese": "6",
     "reading": "ろく"
   },
   {
-    "id": "131",
+    "id": 131,
     "topic": "7",
     "japanese": "7",
     "reading": "しち/なな"
   },
   {
-    "id": "132",
+    "id": 132,
     "topic": "8",
     "japanese": "8",
     "reading": "はち"
   },
   {
-    "id": "133",
+    "id": 133,
     "topic": "9",
     "japanese": "9",
     "reading": "きゅう"
   },
   {
-    "id": "134",
+    "id": 134,
     "topic": "10",
     "japanese": "10",
     "reading": "じゅう"
   },
   {
-    "id": "135",
+    "id": 135,
     "topic": "見面",
     "japanese": "会う",
     "reading": "あう"
   },
   {
-    "id": "136",
+    "id": 136,
     "topic": "玩耍",
     "japanese": "遊ぶ",
     "reading": "あそぶ"
   },
   {
-    "id": "137",
+    "id": 137,
     "topic": "走路",
     "japanese": "歩く",
     "reading": "あるく"
   },
   {
-    "id": "138",
+    "id": 138,
     "topic": "說",
     "japanese": "言う",
     "reading": "いう"
   },
   {
-    "id": "139",
+    "id": 139,
     "topic": "去",
     "japanese": "行く",
     "reading": "いく"
   },
   {
-    "id": "140",
+    "id": 140,
     "topic": "需要",
     "japanese": "要る",
     "reading": "いる"
   },
   {
-    "id": "141",
+    "id": 141,
     "topic": "唱",
     "japanese": "歌う",
     "reading": "うたう"
   },
   {
-    "id": "142",
+    "id": 142,
     "topic": "游泳",
     "japanese": "泳ぐ",
     "reading": "およぐ"
   },
   {
-    "id": "143",
+    "id": 143,
     "topic": "結束",
     "japanese": "終わる",
     "reading": "おわる"
   },
   {
-    "id": "144",
+    "id": 144,
     "topic": "告訴、教導",
     "japanese": "教える",
     "reading": "おしえる"
   },
   {
-    "id": "145",
+    "id": 145,
     "topic": "買",
     "japanese": "買う",
     "reading": "かう"
   },
   {
-    "id": "146",
+    "id": 146,
     "topic": "寫",
     "japanese": "書く",
     "reading": "かく"
   },
   {
-    "id": "147",
+    "id": 147,
     "topic": "花費時間、金錢",
     "japanese": "掛かる",
     "reading": "かかる"
   },
   {
-    "id": "148",
+    "id": 148,
     "topic": "回家",
     "japanese": "帰る",
     "reading": "かえる"
   },
   {
-    "id": "149",
+    "id": 149,
     "topic": "請教、聽到",
     "japanese": "聞く",
     "reading": "きく"
   },
   {
-    "id": "150",
+    "id": 150,
     "topic": "回答",
     "japanese": "答える",
     "reading": "こたえる"
   },
   {
-    "id": "151",
+    "id": 151,
     "topic": "困擾、為難",
     "japanese": "困る",
     "reading": "こまる"
   },
   {
-    "id": "152",
+    "id": 152,
     "topic": "來",
     "japanese": "来る",
     "reading": "くる"
   },
   {
-    "id": "153",
+    "id": 153,
     "topic": "死",
     "japanese": "死ぬ",
     "reading": "しぬ"
   },
   {
-    "id": "154",
+    "id": 154,
     "topic": "居住",
     "japanese": "住む",
     "reading": "すむ"
   },
   {
-    "id": "155",
+    "id": 155,
     "topic": "坐下",
     "japanese": "座る",
     "reading": "すわる"
   },
   {
-    "id": "156",
+    "id": 156,
     "topic": "站立",
     "japanese": "立つ",
     "reading": "たつ"
   },
   {
-    "id": "157",
+    "id": 157,
     "topic": "吃",
     "japanese": "食べる",
     "reading": "たべる"
   },
   {
-    "id": "158",
+    "id": 158,
     "topic": "疲累",
     "japanese": "疲れる",
     "reading": "つかれる"
   },
   {
-    "id": "159",
+    "id": 159,
     "topic": "到達",
     "japanese": "着く",
     "reading": "つく"
   },
   {
-    "id": "160",
+    "id": 160,
     "topic": "使用",
     "japanese": "使う",
     "reading": "つかう"
   },
   {
-    "id": "161",
+    "id": 161,
     "topic": "做",
     "japanese": "作る",
     "reading": "つくる"
   },
   {
-    "id": "162",
+    "id": 162,
     "topic": "停止",
     "japanese": "止まる",
     "reading": "とまる"
   },
   {
-    "id": "163",
+    "id": 163,
     "topic": "飛、突然跳出",
     "japanese": "飛ぶ",
     "reading": "とぶ"
   },
   {
-    "id": "164",
+    "id": 164,
     "topic": "哭泣",
     "japanese": "泣く",
     "reading": "なく"
   },
   {
-    "id": "165",
+    "id": 165,
     "topic": "睡覺",
     "japanese": "寝る",
     "reading": "ねる"
   },
   {
-    "id": "166",
+    "id": 166,
     "topic": "乘坐",
     "japanese": "乗る",
     "reading": "のる"
   },
   {
-    "id": "167",
+    "id": 167,
     "topic": "喝",
     "japanese": "飲む",
     "reading": "のむ"
   },
   {
-    "id": "168",
+    "id": 168,
     "topic": "不同、錯誤",
     "japanese": "違う",
     "reading": "ちがう"
   },
   {
-    "id": "169",
+    "id": 169,
     "topic": "排列、排隊",
     "japanese": "並ぶ",
     "reading": "ならぶ"
   },
   {
-    "id": "170",
+    "id": 170,
     "topic": "進入",
     "japanese": "入る",
     "reading": "はいる"
   },
   {
-    "id": "171",
+    "id": 171,
     "topic": "開始",
     "japanese": "始まる",
     "reading": "はじまる"
   },
   {
-    "id": "172",
+    "id": 172,
     "topic": "跑（人）、行駛（車）",
     "japanese": "走る",
     "reading": "はしる"
   },
   {
-    "id": "173",
+    "id": 173,
     "topic": "降下",
     "japanese": "降る",
     "reading": "ふる"
   },
   {
-    "id": "174",
+    "id": 174,
     "topic": "看",
     "japanese": "見る",
     "reading": "みる"
   },
   {
-    "id": "175",
+    "id": 175,
     "topic": "等待",
     "japanese": "待つ",
     "reading": "まつ"
   },
   {
-    "id": "176",
+    "id": 176,
     "topic": "閱讀",
     "japanese": "読む",
     "reading": "よむ"
   },
   {
-    "id": "177",
+    "id": 177,
     "topic": "熱的",
     "japanese": "暑い",
     "reading": "あつい"
   },
   {
-    "id": "178",
+    "id": 178,
     "topic": "冷的",
     "japanese": "寒い",
     "reading": "さむい"
   },
   {
-    "id": "179",
+    "id": 179,
     "topic": "涼的",
     "japanese": "冷たい",
     "reading": "つめたい"
   },
   {
-    "id": "180",
+    "id": 180,
     "topic": "溫暖的",
     "japanese": "暖かい",
     "reading": "あたたかい"
   },
   {
-    "id": "181",
+    "id": 181,
     "topic": "涼爽的",
     "japanese": "涼しい",
     "reading": "すずしい"
   },
   {
-    "id": "182",
+    "id": 182,
     "topic": "厚的",
     "japanese": "厚い",
     "reading": "あつい"
   },
   {
-    "id": "183",
+    "id": 183,
     "topic": "薄的、淡的",
     "japanese": "薄い",
     "reading": "うすい"
   },
   {
-    "id": "184",
+    "id": 184,
     "topic": "近的",
     "japanese": "近い",
     "reading": "ちかい"
   },
   {
-    "id": "185",
+    "id": 185,
     "topic": "遠的",
     "japanese": "遠い",
     "reading": "とおい"
   },
   {
-    "id": "186",
+    "id": 186,
     "topic": "弱的",
     "japanese": "弱い",
     "reading": "よわい"
   },
   {
-    "id": "187",
+    "id": 187,
     "topic": "強的",
     "japanese": "強い",
     "reading": "つよい"
   },
   {
-    "id": "188",
+    "id": 188,
     "topic": "輕的",
     "japanese": "軽い",
     "reading": "かるい"
   },
   {
-    "id": "189",
+    "id": 189,
     "topic": "重的",
     "japanese": "重い",
     "reading": "おもい"
   },
   {
-    "id": "190",
+    "id": 190,
     "topic": "狹窄",
     "japanese": "狭い",
     "reading": "せまい"
   },
   {
-    "id": "191",
+    "id": 191,
     "topic": "寬廣",
     "japanese": "広い",
     "reading": "ひろい"
   },
   {
-    "id": "192",
+    "id": 192,
     "topic": "早的",
     "japanese": "早い",
     "reading": "はやい"
   },
   {
-    "id": "193",
+    "id": 193,
     "topic": "快的",
     "japanese": "速い",
     "reading": "はやい"
   },
   {
-    "id": "194",
+    "id": 194,
     "topic": "慢、晚、",
     "japanese": "遅い",
     "reading": "おそい"
   },
   {
-    "id": "195",
+    "id": 195,
     "topic": "粗的、胖的",
     "japanese": "太い",
     "reading": "ふとい"
   },
   {
-    "id": "196",
+    "id": 196,
     "topic": "細的",
     "japanese": "細い",
     "reading": "ほそい"
   },
   {
-    "id": "197",
+    "id": 197,
     "topic": "短的",
     "japanese": "短い",
     "reading": "みじかい"
   },
   {
-    "id": "198",
+    "id": 198,
     "topic": "長的",
     "japanese": "長い",
     "reading": "ながい"
   },
   {
-    "id": "199",
+    "id": 199,
     "topic": "便宜",
     "japanese": "安い",
     "reading": "やすい"
   },
   {
-    "id": "200",
+    "id": 200,
     "topic": "貴的、高的",
     "japanese": "高い",
     "reading": "たかい"
   },
   {
-    "id": "201",
+    "id": 201,
     "topic": "矮的",
     "japanese": "低い",
     "reading": "ひくい"
   },
   {
-    "id": "202",
+    "id": 202,
     "topic": "好的",
     "japanese": "良い",
     "reading": "いい"
   },
   {
-    "id": "203",
+    "id": 203,
     "topic": "壞的",
     "japanese": "悪い",
     "reading": "わるい"
   },
   {
-    "id": "204",
+    "id": 204,
     "topic": "髒的",
     "japanese": "汚い",
     "reading": "きたない"
   },
   {
-    "id": "205",
+    "id": 205,
     "topic": "新的",
     "japanese": "新しい",
     "reading": "あたらしい"
   },
   {
-    "id": "206",
+    "id": 206,
     "topic": "舊的",
     "japanese": "古い",
     "reading": "ふるい"
   },
   {
-    "id": "207",
+    "id": 207,
     "topic": "有趣的",
     "japanese": "面白い",
     "reading": "おもしろい"
   },
   {
-    "id": "208",
+    "id": 208,
     "topic": "無聊的",
     "japanese": "つまらない",
     "reading": "つまらない"
   },
   {
-    "id": "209",
+    "id": 209,
     "topic": "大的",
     "japanese": "大きい",
     "reading": "おおきい"
   },
   {
-    "id": "210",
+    "id": 210,
     "topic": "小的",
     "japanese": "小さい",
     "reading": "ちいさい"
   },
   {
-    "id": "211",
+    "id": 211,
     "topic": "甜的",
     "japanese": "甘い",
     "reading": "あまい"
   },
   {
-    "id": "212",
+    "id": 212,
     "topic": "好吃、好喝",
     "japanese": "美味しい",
     "reading": "おいしい"
   },
   {
-    "id": "213",
+    "id": 213,
     "topic": "難吃、難喝",
     "japanese": "まずい",
     "reading": "x"
   },
   {
-    "id": "214",
+    "id": 214,
     "topic": "簡單",
     "japanese": "易しい",
     "reading": "やさしい"
   },
   {
-    "id": "215",
+    "id": 215,
     "topic": "困難的",
     "japanese": "難しい",
     "reading": "むずかしい"
   },
   {
-    "id": "216",
+    "id": 216,
     "topic": "溫柔",
     "japanese": "優しい",
     "reading": "やさしい"
   },
   {
-    "id": "217",
+    "id": 217,
     "topic": "嚴格的",
     "japanese": "厳しい",
     "reading": "きびしい"
   },
   {
-    "id": "218",
+    "id": 218,
     "topic": "暗暗的",
     "japanese": "暗い",
     "reading": "くらい"
   },
   {
-    "id": "219",
+    "id": 219,
     "topic": "明亮的",
     "japanese": "明るい",
     "reading": "あかるい"
   },
   {
-    "id": "220",
+    "id": 220,
     "topic": "忙碌",
     "japanese": "忙しい",
     "reading": "いそがしい"
   },
   {
-    "id": "221",
+    "id": 221,
     "topic": "可愛",
     "japanese": "可愛い",
     "reading": "かわいい"
   },
   {
-    "id": "222",
+    "id": 222,
     "topic": "快樂",
     "japanese": "楽しい",
     "reading": "たのしい"
   },
   {
-    "id": "223",
+    "id": 223,
     "topic": "吵、囉嗦",
     "japanese": "うるさい",
     "reading": "x"
   },
   {
-    "id": "224",
+    "id": 224,
     "topic": "漂亮、乾淨",
     "japanese": "綺麗",
     "reading": "きれい"
   },
   {
-    "id": "225",
+    "id": 225,
     "topic": "方便",
     "japanese": "便利",
     "reading": "べんり"
   },
   {
-    "id": "226",
+    "id": 226,
     "topic": "有名",
     "japanese": "有名",
     "reading": "ゆうめい"
   },
   {
-    "id": "227",
+    "id": 227,
     "topic": "安靜",
     "japanese": "静か",
     "reading": "しずか"
   },
   {
-    "id": "228",
+    "id": 228,
     "topic": "熱鬧、繁華",
     "japanese": "賑やか",
     "reading": "にぎやか"
   },
   {
-    "id": "229",
+    "id": 229,
     "topic": "冰淇淋",
     "japanese": "アイスクリーム",
     "reading": "おそい"
