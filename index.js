@@ -3,7 +3,7 @@ const app = express();
 
 // 使用路由
 app.use('/learn/jp', require('./src/learn-jp-individual-characters'));
-app.use('/', require('./src/tiket'));
+app.use('/', require('./src/ticket'));
 
 // 定義其他路由或中間件
 app.get('/', (req, res) => {

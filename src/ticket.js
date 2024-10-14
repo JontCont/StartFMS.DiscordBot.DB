@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 
 const router = express.Router();
-const dbFilePath = path.join(__dirname, "public", "tiket.json");
+const dbFilePath = path.join(__dirname, "public", "ticket.json");
 
 // Helper function to read the database file
 const readDatabase = () => {
@@ -17,13 +17,13 @@ const writeDatabase = (data) => {
 };
 
 // Get all items
-router.get("/tiket", (req, res) => {
+router.get("/ticket", (req, res) => {
   const data = readDatabase();
   res.json(data);
 });
 
 // Get a single item by ID
-router.get("/tiket/:id", (req, res) => {
+router.get("/ticket/:id", (req, res) => {
   const data = readDatabase();
   const item = data.find((item) => item.id === req.params.id);
   if (item) {
@@ -34,7 +34,7 @@ router.get("/tiket/:id", (req, res) => {
 });
 
 // Create a new item
-router.post("/tiket", (req, res) => {
+router.post("/ticket", (req, res) => {
   const data = readDatabase();
   const newItem = req.body;
   if (!newItem.topic || !newItem.日文 || !newItem["平/片假名讀音"]) {
@@ -52,7 +52,7 @@ router.post("/tiket", (req, res) => {
 });
 
 // Update an item by ID
-router.put("/tiket/:id", (req, res) => {
+router.put("/ticket/:id", (req, res) => {
   const data = readDatabase();
   const index = data.findIndex((item) => item.id === parseInt(req.params.id));
   if (index !== -1) {
@@ -65,7 +65,7 @@ router.put("/tiket/:id", (req, res) => {
 });
 
 // Delete an item by ID
-router.delete("/tiket/:id", (req, res) => {
+router.delete("/ticket/:id", (req, res) => {
   const data = readDatabase();
   const index = data.findIndex((item) => item.id === parseInt(req.params.id));
   if (index !== -1) {
@@ -78,7 +78,7 @@ router.delete("/tiket/:id", (req, res) => {
 });
 
 //重新定義ID
-router.post("/tiket/reset", (req, res) => {
+router.post("/ticket/reset", (req, res) => {
     const data = readDatabase();
     data.forEach((item, index) => {
         item.id = index + 1;
