@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require("express");
 const path = require("path");
 const fs = require("fs");
 
@@ -37,21 +37,19 @@ router.get("/ticket/:key", (req, res) => {
 router.post("/ticket", (req, res) => {
   const data = readDatabase();
   const newItem = req.body;
-
   if (data.find((item) => item.key === newItem.key)) {
     return res.status(400).send("Item already exists");
   }
 
-  newItem.id = data.length ? data[data.length - 1].id + 1 : 1;
   data.push(newItem);
   writeDatabase(data);
   res.status(201).json(newItem);
 });
 
 // Update an item by ID
-router.put("/ticket/:id", (req, res) => {
+router.put("/ticket/:key", (req, res) => {
   const data = readDatabase();
-  const index = data.findIndex((item) => item.id === parseInt(req.params.id));
+  const index = data.findIndex((item) => item.key === req.params.key);
   if (index !== -1) {
     data[index] = { ...data[index], ...req.body };
     writeDatabase(data);
@@ -61,10 +59,10 @@ router.put("/ticket/:id", (req, res) => {
   }
 });
 
-// Delete an item by ID
-router.delete("/ticket/:id", (req, res) => {
+// Delete an item by key
+router.delete("/ticket/:key", (req, res) => {
   const data = readDatabase();
-  const index = data.findIndex((item) => item.id === parseInt(req.params.id));
+  const index = data.findIndex((item) => item.key === req.params.key);
   if (index !== -1) {
     const deletedItem = data.splice(index, 1);
     writeDatabase(data);
@@ -73,16 +71,5 @@ router.delete("/ticket/:id", (req, res) => {
     res.status(404).send("Item not found");
   }
 });
-
-//重新定義ID
-router.post("/ticket/reset", (req, res) => {
-    const data = readDatabase();
-    data.forEach((item, index) => {
-        item.id = index + 1;
-    });
-    writeDatabase(data);
-    res.json(data);
-});
-
 
 module.exports = router;

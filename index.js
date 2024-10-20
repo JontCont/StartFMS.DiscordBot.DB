@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 
+app.use(express.json());
 // 使用路由
 app.use('/learn/jp', require('./src/learn-jp-individual-characters'));
 app.use('/', require('./src/ticket'));
