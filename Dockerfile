@@ -1,5 +1,5 @@
 # 使用官方 Node.js LTS 版本作為基礎映像
-FROM node:lts-alpine
+FROM node:lts
 
 # 設置工作目錄
 WORKDIR /usr/src/app
